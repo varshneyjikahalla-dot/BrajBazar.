@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783656523840",
+    "project_id": "braj-647f8",
+    "storage_bucket": "braj-647f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783656523840:android:0e88edcf346767e7d027a5",
+        "android_client_info": {
+          "package_name": "com.brajbazar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZE3DdTduBuI_Ox3iKZpg8pA5_PgOcC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
